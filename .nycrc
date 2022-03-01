@@ -1,9 +1,0 @@
-{
-  "extends": "@istanbuljs/nyc-config-typescript",
-  "all": true,
-  "check-coverage": true,
-  "included": true,
-  "include": ["src/**/*.vue", "src/**/*.ts"],
-  "exclude": ["**/*.spec.ts"],
-  "extension": [".js", ".vue", ".ts"]
-}
