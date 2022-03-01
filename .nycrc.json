@@ -1,11 +1,8 @@
 {
-  "exclude": [
-    "**/*.d.ts",
-    "**/*.spec.ts"
-  ],
-  "extension": [
-    ".ts",
-    ".vue"
-  ],
-  "all": true
+  "all": true,
+  "check-coverage": true,
+  "included": true,
+  "include": ["src/**/*.vue", "src/**/*.ts"],
+  "exclude": ["**/*.spec.ts"],
+  "extension": [".js", ".vue", ".ts"]
 }

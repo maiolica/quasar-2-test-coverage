@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1646114872957" clover="3.2.0">
-  <project timestamp="1646114872958" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="12" files="30" classes="30"/>
+<coverage generated="1646115824562" clover="3.2.0">
+  <project timestamp="1646115824562" name="All files">
+    <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="1" coveredelements="1" complexity="0" loc="1" ncloc="1" packages="9" files="28" classes="28"/>
     <package name="src">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="App.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/App.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="env.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/env.d.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="quasar.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/quasar.d.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="shims-vue.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/shims-vue.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
@@ -60,12 +69,13 @@
       </file>
     </package>
     <package name="src.pages">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="Error404.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/pages/Error404.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
       <file name="Index.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/pages/Index.vue">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.router">
@@ -80,6 +90,9 @@
     <package name="src.store">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="store-flag.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/store-flag.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
@@ -98,33 +111,6 @@
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
       <file name="state.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/state.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-    </package>
-    <package name="test.cypress.plugins">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/plugins/index.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-    </package>
-    <package name="test.cypress.support">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="commands.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/support/commands.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/support/index.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-      <file name="unit.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/support/unit.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-    </package>
-    <package name="test.cypress.wrappers">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="DialogWrapper.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/wrappers/DialogWrapper.vue">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-      <file name="LayoutContainer.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/test/cypress/wrappers/LayoutContainer.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
