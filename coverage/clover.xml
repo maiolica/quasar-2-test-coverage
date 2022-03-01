@@ -1,118 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645095483584" clover="3.2.0">
-  <project timestamp="1645095483584" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="10" files="28" classes="28"/>
+<coverage generated="1646115824562" clover="3.2.0">
+  <project timestamp="1646115824562" name="All files">
+    <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="1" coveredelements="1" complexity="0" loc="1" ncloc="1" packages="9" files="28" classes="28"/>
     <package name="src">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="App.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/App.vue">
+      <file name="App.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/App.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="env.d.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/env.d.ts">
+      <file name="env.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/env.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="quasar.d.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/quasar.d.ts">
+      <file name="quasar.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/quasar.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="shims-vue.d.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/shims-vue.d.ts">
+      <file name="shims-vue.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/shims-vue.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.boot">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="axios.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/boot/axios.ts">
+      <file name="axios.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/boot/axios.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="i18n.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/boot/i18n.ts">
+      <file name="i18n.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/boot/i18n.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.components">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="CompositionComponent.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/CompositionComponent.vue">
+      <file name="CompositionComponent.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/CompositionComponent.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="EssentialLink.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/EssentialLink.vue">
+      <file name="EssentialLink.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/EssentialLink.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="QuasarButton.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/QuasarButton.vue">
+      <file name="QuasarButton.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/QuasarButton.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="QuasarDialog.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/QuasarDialog.vue">
+      <file name="QuasarDialog.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/QuasarDialog.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="QuasarDrawer.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/QuasarDrawer.vue">
+      <file name="QuasarDrawer.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/QuasarDrawer.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="QuasarPageSticky.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/QuasarPageSticky.vue">
+      <file name="QuasarPageSticky.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/QuasarPageSticky.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="QuasarTooltip.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/QuasarTooltip.vue">
+      <file name="QuasarTooltip.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/QuasarTooltip.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="models.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/components/models.ts">
+      <file name="Sample.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/Sample.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="models.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/components/models.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.i18n">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/i18n/index.ts">
+      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/i18n/index.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.i18n.en-US">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/i18n/en-US/index.ts">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      </file>
-    </package>
-    <package name="src.layouts">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="MainLayout.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/layouts/MainLayout.vue">
+      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/i18n/en-US/index.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.pages">
-      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="Error404.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/pages/Error404.vue">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Error404.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/pages/Error404.vue">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="Index.vue" path="/Users/gualtiero/code/quasar-2-test-coverage/src/pages/Index.vue">
-        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Index.vue" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/pages/Index.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.router">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/router/index.ts">
+      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/router/index.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="routes.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/router/routes.ts">
+      <file name="routes.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/router/routes.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.store">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/index.ts">
+      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/index.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="store-flag.d.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/store-flag.d.ts">
+      <file name="store-flag.d.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/store-flag.d.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="src.store.module-example">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="actions.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/module-example/actions.ts">
+      <file name="actions.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/actions.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="getters.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/module-example/getters.ts">
+      <file name="getters.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/getters.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="index.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/module-example/index.ts">
+      <file name="index.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/index.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="mutations.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/module-example/mutations.ts">
+      <file name="mutations.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/mutations.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="state.ts" path="/Users/gualtiero/code/quasar-2-test-coverage/src/store/module-example/state.ts">
+      <file name="state.ts" path="/Users/riyaz/Documents/workSpace/quasar-2-test-coverage/src/store/module-example/state.ts">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
